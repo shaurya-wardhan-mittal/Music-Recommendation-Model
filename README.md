@@ -6,14 +6,23 @@ This repository contains a music recommendation model built using the Neural Net
 Features
 
 Recommendation Algorithm: Neural Network (NN)
+
 Song Features Considered: danceability, energy, tempo, loudness, key, mode, speechiness, acousticness, instrumentalness, liveness, valence, and duration
+
 Scalable: Can be expanded with additional features or a larger dataset to improve recommendation quality
+
 Requirements
+
 Before running the code, ensure you have the following installed:
+
 Python 3.8+
+
 pandas
+
 scikit-learn
+
 numpy
+
 matplotlib (optional, for data visualization)
 
 Model Details
@@ -34,17 +43,29 @@ Features Used
 The following features are used to calculate similarity:
 
 Danceability
+
 Energy
+
 Key
+
 Loudness
+
 Mode
+
 Speechiness
+
 Acousticness
+
 Instrumentalness
+
 Liveness
+
 Valence
+
 Tempo
+
 Duration (ms)
+
 These features provide a multidimensional representation of each song, capturing key aspects of the music's style, mood, and structure.
 
 Future Improvements

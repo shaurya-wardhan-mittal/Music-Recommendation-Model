@@ -1,7 +1,7 @@
 ﻿# Music-Recommendation-Model
 **Overview**
 
-This repository contains a music recommendation model built using the Neural Network (NN) algorithm. The model is designed to recommend songs based on the similarity of various features such as danceability, energy, tempo, loudness, and more. By analyzing a dataset of song characteristics, the KNN model identifies songs similar to a user's favorite tracks, making it an ideal tool for personalized music recommendations.
+This repository contains a music recommendation model built using the Neural Network (NN) algorithm. The model is designed to recommend songs based on the similarity of various features such as danceability, energy, tempo, loudness, and more. By analyzing a dataset of song characteristics, the NN model identifies songs similar to a user's favorite tracks, making it an ideal tool for personalized music recommendations.
 
 **Features**
 
